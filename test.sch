@@ -42,6 +42,7 @@
 <vertex x="71.12" y="12.7"/>
 <vertex x="68.58" y="43.18"/>
 </polygon>
+<rectangle x1="15.24" y1="48.26" x2="25.4" y2="58.42" layer="91"/>
 </plain>
 <instances>
 </instances>

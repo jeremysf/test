@@ -68,6 +68,12 @@
 <wire x1="35.56" y1="53.34" x2="35.56" y2="33.02" width="0.1524" layer="91"/>
 </segment>
 </net>
+<net name="N$3" class="0">
+<segment>
+<wire x1="33.02" y1="60.96" x2="53.34" y2="45.72" width="0.1524" layer="91"/>
+<wire x1="53.34" y1="45.72" x2="73.66" y2="48.26" width="0.1524" layer="91"/>
+</segment>
+</net>
 </nets>
 </sheet>
 </sheets>

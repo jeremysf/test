@@ -35,6 +35,7 @@
 <sheet>
 <plain>
 <circle x="38.1" y="53.34" radius="7.184203125" width="0.1524" layer="91"/>
+<rectangle x1="15.24" y1="25.4" x2="30.48" y2="38.1" layer="91"/>
 </plain>
 <instances>
 </instances>
